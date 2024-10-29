@@ -3,5 +3,6 @@ Here are source code that can be uploaded to Arduino Nano board via Arduino IDE.
 Can`t work at the moment on Android with OS version 14 devices.
 
 Author, License, and Copyright
+
 usb-serial-for-android that was used in project is written and maintained by mike wakerly https://github.com/mik3y
 This library is licensed under LGPL Version 2.1. Please see LICENSE.txt for the complete license.
